@@ -1,11 +1,12 @@
 # Ramin Najjarbashi
 
-## Upstream
+Software engineer · open source · storage systems and S3-compatible APIs.
+
+## Open source
 
 - [ceph/ceph#69190](https://github.com/ceph/ceph/pull/69190) — merged: match CORS rules like Amazon S3
-- Active backports: umbrella, squid, tentacle ([#69647](https://github.com/ceph/ceph/pull/69647), [#69648](https://github.com/ceph/ceph/pull/69648), [#69651](https://github.com/ceph/ceph/pull/69651))
-- [ceph/ceph#65993](https://github.com/ceph/ceph/pull/65993) — `ceph osd find`: expose backing devices
-- Tracker: [tracker.ceph.com](https://tracker.ceph.com)
+- Backports: [#69647](https://github.com/ceph/ceph/pull/69647), [#69648](https://github.com/ceph/ceph/pull/69648), [#69651](https://github.com/ceph/ceph/pull/69651)
+- [ceph/ceph#65993](https://github.com/ceph/ceph/pull/65993) — expose backing devices in `ceph osd find`
 
 ## Projects
 
