@@ -1,7 +1,5 @@
 # Ramin Najjarbashi
 
-Ceph contributor focused on **RGW** (S3 compatibility, CORS, admin APIs).
-
 ## Upstream
 
 - [ceph/ceph#69190](https://github.com/ceph/ceph/pull/69190) — merged: match CORS rules like Amazon S3
