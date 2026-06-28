@@ -1,6 +1,6 @@
 # Ramin Najjarbashi
 
-**Site Reliability Engineer** at [Arvancloud](https://www.arvancloud.ir) · Mashhad, Iran
+**Site Reliability Engineer**
 
 Python · Linux · networking · object storage · monitoring · open source
 
